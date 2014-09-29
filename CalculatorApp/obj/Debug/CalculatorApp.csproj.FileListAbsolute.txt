@@ -1,0 +1,16 @@
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+F:\BASIS OOP ASP.NET 49 Batch\27\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+F:\BASIS OOP ASP.NET 49 Batch\27\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+F:\BASIS OOP ASP.NET 49 Batch\27\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+F:\BASIS OOP ASP.NET 49 Batch\27\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+F:\BASIS OOP ASP.NET 49 Batch\27\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+F:\BASIS OOP ASP.NET 49 Batch\27\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
+F:\BASIS OOP ASP.NET 49 Batch\27\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+F:\BASIS OOP ASP.NET 49 Batch\27\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
